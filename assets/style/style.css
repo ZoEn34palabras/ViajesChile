@@ -2,3 +2,13 @@
     margin: 0px;
     padding: 0px;
 }
+.navbar-brand{
+    color: #fff;
+    margin-left: 5em;
+}
+.nav-item a{
+    color: #a7dfe8;    
+    display: flex;
+    justify-content: flex-end ;
+    margin-left: 2em ;
+}
