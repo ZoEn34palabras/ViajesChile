@@ -12,3 +12,16 @@
     justify-content: flex-end ;
     margin-left: 2em ;
 }
+.presentacion, .destacados {
+    background-color: black;
+}
+.title-pre, .title-destacado {
+    color: #E6F1ED;
+    padding: 2em 0 0 0;
+}
+.presentacion p{
+    color: #E6F1ED;
+}
+hr{
+    color: #E6F1ED;
+}
