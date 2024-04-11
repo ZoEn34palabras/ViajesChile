@@ -12,7 +12,7 @@
     justify-content: flex-end ;
     margin-left: 3em ;
 }
-.presentacion, .destacados {
+.presentacion, .destacados, .form {
     background-color: black;
 }
 .presentacion, .destacados{
@@ -23,7 +23,7 @@
     color: #E6F1ED;
     padding: 2em 0 0 0;
 }
-.presentacion p{
+.presentacion p , .form-label, .card{
     color: #E6F1ED;
 }
 hr{
@@ -38,4 +38,9 @@ i {
 }
 .card-body{
     background-color: #0dcaf0;
+}
+.enviar {
+    color: #fff;
+    background-color:  #0dcaf0;
+    margin-left: 4.5em ;
 }
