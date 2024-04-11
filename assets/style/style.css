@@ -15,7 +15,7 @@
 .presentacion, .destacados {
     background-color: black;
 }
-.presentacion {
+.presentacion, .destacados{
     padding-left: 4em ;
     padding-right: 4em ; 
 }
@@ -31,4 +31,11 @@ hr{
 }
 i {
     color: #fff;
+}
+.card-img-top {
+    width: 17em;
+    height: 7em;
+}
+.card-body{
+    background-color: #0dcaf0;
 }
