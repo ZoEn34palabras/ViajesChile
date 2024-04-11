@@ -23,7 +23,7 @@
     color: #E6F1ED;
     padding: 2em 0 0 0;
 }
-.presentacion p , .form-label, .card{
+.presentacion p , .form-label, .card, .viajes {
     color: #E6F1ED;
 }
 hr{
@@ -36,11 +36,22 @@ i {
     width: 17em;
     height: 7em;
 }
-.card-body{
+.card-body, .pie{
     background-color: #0dcaf0;
 }
 .enviar {
     color: #fff;
     background-color:  #0dcaf0;
     margin-left: 4.5em ;
+    margin-bottom: 2em;
+}
+footer {
+    padding: 1em;
+}
+.viajes{
+    padding-left: 5em;    
+}
+.iconos-pie {
+    padding-left: 40em;
+    margin: 2px;    
 }
