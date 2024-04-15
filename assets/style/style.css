@@ -2,6 +2,22 @@
     margin: 0px;
     padding: 0px;
 }
+.navbar-brand{
+    color: #fff;
+    margin-left: 3em;
+}
+.nav-item a{
+    color: #a7dfe8;    
+    display: flex;
+    justify-content: flex-end ;
+    margin-left: 3em ;
+}
+.navbar-toggler {position: absolute;top: 17px;right: 20px;z-index: 2000!important;}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+    display: flex;
+}
 .presentacion, .destacados, .form {
     background-color: black;
 }
