@@ -2,3 +2,20 @@
     margin: 0px;
     padding: 0px;
 }
+.presentacion, .destacados, .form {
+    background-color: black;
+}
+.presentacion, .destacados{
+    padding-left: 4em ;
+    padding-right: 4em ; 
+}
+.title-pre, .title-destacado {
+    color: #E6F1ED;
+    padding: 2em 0 0 0;
+}
+.presentacion p , .form-label, .card, .viajes {
+    color: #E6F1ED;
+}
+hr{
+    color: #E6F1ED;
+}
