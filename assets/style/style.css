@@ -12,46 +12,10 @@
     justify-content: flex-end ;
     margin-left: 3em ;
 }
-.presentacion, .destacados, .form {
-    background-color: black;
+.navbar-toggler {position: absolute;top: 17px;right: 20px;z-index: 2000!important;}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+    display: flex;
 }
-.presentacion, .destacados{
-    padding-left: 4em ;
-    padding-right: 4em ; 
-}
-.title-pre, .title-destacado {
-    color: #E6F1ED;
-    padding: 2em 0 0 0;
-}
-.presentacion p , .form-label, .card, .viajes {
-    color: #E6F1ED;
-}
-hr{
-    color: #E6F1ED;
-}
-i {
-    color: #fff;
-}
-.card-img-top {
-    width: 17em;
-    height: 7em;
-}
-.card-body, .pie{
-    background-color: #0dcaf0;
-}
-.enviar {
-    color: #fff;
-    background-color:  #0dcaf0;
-    margin-left: 4.5em ;
-    margin-bottom: 2em;
-}
-footer {
-    padding: 1em;
-}
-.viajes{
-    padding-left: 5em;    
-}
-.iconos-pie {
-    padding-left: 40em;
-    margin: 2px;    
-}
+
